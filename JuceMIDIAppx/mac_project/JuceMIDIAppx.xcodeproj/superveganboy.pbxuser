@@ -64,6 +64,19 @@
 			87F1E3880EBA3B8E001559B6 /* PBXTextBookmark */ = 87F1E3880EBA3B8E001559B6 /* PBXTextBookmark */;
 			87F1E3890EBA3B8E001559B6 /* PBXTextBookmark */ = 87F1E3890EBA3B8E001559B6 /* PBXTextBookmark */;
 			87F1E38A0EBA3B8E001559B6 /* PBXTextBookmark */ = 87F1E38A0EBA3B8E001559B6 /* PBXTextBookmark */;
+			87F1E38B0EBA3BA2001559B6 /* PBXTextBookmark */ = 87F1E38B0EBA3BA2001559B6 /* PBXTextBookmark */;
+			87F1E38D0EBA3BF8001559B6 /* PBXTextBookmark */ = 87F1E38D0EBA3BF8001559B6 /* PBXTextBookmark */;
+			87F1E38E0EBA3BF8001559B6 /* PBXTextBookmark */ = 87F1E38E0EBA3BF8001559B6 /* PBXTextBookmark */;
+			87F1E38F0EBA3BF8001559B6 /* PBXTextBookmark */ = 87F1E38F0EBA3BF8001559B6 /* PBXTextBookmark */;
+			87F1E3900EBA3BF8001559B6 /* PBXTextBookmark */ = 87F1E3900EBA3BF8001559B6 /* PBXTextBookmark */;
+			87F1E3980EBA3C40001559B6 /* PBXTextBookmark */ = 87F1E3980EBA3C40001559B6 /* PBXTextBookmark */;
+			87F1E3990EBA3C40001559B6 /* PBXTextBookmark */ = 87F1E3990EBA3C40001559B6 /* PBXTextBookmark */;
+			87F1E39A0EBA3C40001559B6 /* PBXTextBookmark */ = 87F1E39A0EBA3C40001559B6 /* PBXTextBookmark */;
+			87F1E39B0EBA3C40001559B6 /* PBXTextBookmark */ = 87F1E39B0EBA3C40001559B6 /* PBXTextBookmark */;
+			87F1E39C0EBA3C40001559B6 /* PBXTextBookmark */ = 87F1E39C0EBA3C40001559B6 /* PBXTextBookmark */;
+			87F1E39D0EBA3C40001559B6 /* PBXTextBookmark */ = 87F1E39D0EBA3C40001559B6 /* PBXTextBookmark */;
+			87F1E39E0EBA3C40001559B6 /* PBXTextBookmark */ = 87F1E39E0EBA3C40001559B6 /* PBXTextBookmark */;
+			87F1E39F0EBA3C42001559B6 /* PBXTextBookmark */ = 87F1E39F0EBA3C42001559B6 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 87B7D9940EB75C6D00A554E3 /* Source Control */;
 		userBuildSettings = {
@@ -111,9 +124,10 @@
 	};
 	87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 784}}";
-			sepNavSelRange = "{163, 0}";
-			sepNavVisRange = "{0, 554}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 840}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 541}";
+			sepNavWindowFrame = "{{15, 193}, {890, 580}}";
 		};
 	};
 	87C4FE060EB8C8B800B93462 /* PBXTextBookmark */ = {
@@ -175,7 +189,7 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 39";
 		rLen = 0;
-		rLoc = 712;
+		rLoc = 699;
 		rType = 0;
 		vrLen = 500;
 		vrLoc = 199;
@@ -235,7 +249,7 @@
 		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
 		name = "MainComponent.h: 191";
 		rLen = 0;
-		rLoc = 5920;
+		rLoc = 5921;
 		rType = 0;
 		vrLen = 1074;
 		vrLoc = 5308;
@@ -245,7 +259,7 @@
 		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
 		name = "MainComponent.h: 191";
 		rLen = 0;
-		rLoc = 5920;
+		rLoc = 5921;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 0;
@@ -255,7 +269,7 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 42";
 		rLen = 0;
-		rLoc = 796;
+		rLoc = 783;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 174;
@@ -265,7 +279,7 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 42";
 		rLen = 0;
-		rLoc = 796;
+		rLoc = 783;
 		rType = 0;
 		vrLen = 525;
 		vrLoc = 174;
@@ -275,7 +289,7 @@
 		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
 		name = "MainComponent.h: 191";
 		rLen = 0;
-		rLoc = 5920;
+		rLoc = 5921;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 0;
@@ -285,7 +299,7 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 9";
 		rLen = 0;
-		rLoc = 163;
+		rLoc = 150;
 		rType = 0;
 		vrLen = 543;
 		vrLoc = 0;
@@ -295,7 +309,7 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 9";
 		rLen = 0;
-		rLoc = 163;
+		rLoc = 150;
 		rType = 0;
 		vrLen = 503;
 		vrLoc = 0;
@@ -325,7 +339,7 @@
 		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
 		name = "MainComponent.h: 191";
 		rLen = 0;
-		rLoc = 5920;
+		rLoc = 5921;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 0;
@@ -335,7 +349,7 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 9";
 		rLen = 0;
-		rLoc = 163;
+		rLoc = 150;
 		rType = 0;
 		vrLen = 554;
 		vrLoc = 0;
@@ -345,7 +359,7 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 9";
 		rLen = 0;
-		rLoc = 163;
+		rLoc = 150;
 		rType = 0;
 		vrLen = 554;
 		vrLoc = 0;
@@ -355,7 +369,7 @@
 		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
 		name = "MainComponent.h: 191";
 		rLen = 0;
-		rLoc = 5920;
+		rLoc = 5921;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 0;
@@ -385,7 +399,7 @@
 		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
 		name = "MainComponent.h: 191";
 		rLen = 0;
-		rLoc = 5920;
+		rLoc = 5921;
 		rType = 0;
 		vrLen = 736;
 		vrLoc = 0;
@@ -395,9 +409,139 @@
 		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
 		name = "ButtonArray.h: 9";
 		rLen = 0;
-		rLoc = 163;
+		rLoc = 150;
 		rType = 0;
 		vrLen = 554;
+		vrLoc = 0;
+	};
+	87F1E38B0EBA3BA2001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
+		name = "ButtonArray.h: 10";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	87F1E38D0EBA3BF8001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
+		name = "ButtonArray.h: 10";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	87F1E38E0EBA3BF8001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
+		name = "MainComponent.h: 191";
+		rLen = 0;
+		rLoc = 5921;
+		rType = 0;
+		vrLen = 736;
+		vrLoc = 0;
+	};
+	87F1E38F0EBA3BF8001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
+		name = "ButtonArray.h: 10";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	87F1E3900EBA3BF8001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
+		name = "MainComponent.h: 7";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	87F1E3980EBA3C40001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB80EB1EC2800F4CA45 /* MainAppWindow.h */;
+		name = "MainAppWindow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 985;
+		vrLoc = 0;
+	};
+	87F1E3990EBA3C40001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
+		name = "ButtonArray.h: 8";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	87F1E39A0EBA3C40001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
+		name = "MainComponent.h: 7";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	87F1E39B0EBA3C40001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
+		name = "MainComponent.h: 7";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 609;
+		vrLoc = 0;
+	};
+	87F1E39C0EBA3C40001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB80EB1EC2800F4CA45 /* MainAppWindow.h */;
+		name = "MainAppWindow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 985;
+		vrLoc = 0;
+	};
+	87F1E39D0EBA3C40001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C4FDCD0EB8C22D00B93462 /* ButtonArray.h */;
+		name = "ButtonArray.h: 8";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 541;
+		vrLoc = 0;
+	};
+	87F1E39E0EBA3C40001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
+		name = "MainComponent.h: 6";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 0;
+	};
+	87F1E39F0EBA3C42001559B6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A8951AB70EB1EC2800F4CA45 /* MainComponent.h */;
+		name = "MainComponent.h: 6";
+		rLen = 0;
+		rLoc = 101;
+		rType = 0;
+		vrLen = 670;
 		vrLoc = 0;
 	};
 	8D0C4E890486CD37000505A6 /* Target App */ = {
@@ -408,9 +552,9 @@
 	};
 	A8951AB70EB1EC2800F4CA45 /* MainComponent.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 3080}}";
-			sepNavSelRange = "{5920, 0}";
-			sepNavVisRange = "{0, 736}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 3318}}";
+			sepNavSelRange = "{101, 0}";
+			sepNavVisRange = "{0, 670}";
 		};
 	};
 	A8951AB80EB1EC2800F4CA45 /* MainAppWindow.h */ = {
